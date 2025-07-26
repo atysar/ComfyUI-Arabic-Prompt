@@ -49,7 +49,7 @@
 1.  افتح نافذة الأوامر (CMD) في مجلد `custom_nodes`.
 2.  قم بنسخ المستودع باستخدام الأمر التالي (استبدل `your-username/repo-name` باسم المستخدم والمستودع الخاصين بك):
     ```bash
-    git clone https://github.com/your-username/repo-name.git
+   git clone https://github.com/atysar/ComfyUI-Arabic-Prompt.git
     ```
 3.  **أعد تشغيل ComfyUI بالكامل.**
 
@@ -104,7 +104,7 @@
 
 - **أفضل طريقة للتواصل بخصوص المشاكل التقنية** هي عبر فتح "قضية" جديدة (New Issue) في هذا المستودع على GitHub.
 - هذا يساعد على تنظيم العمل وتتبع المشاكل وحلها بشكل فعال، ويسمح للآخرين الذين قد يواجهون نفس المشكلة برؤية الحلول.
-- **[لفتح قضية جديدة (New Issue)، اضغط هنا](git clone https://github.com/atysar/ComfyUI-Arabic-Prompt.git)**  *(ملاحظة: استبدل `your-username/repo-name` باسم المستخدم والمستودع الخاصين بك).*
+- **[لفتح قضية جديدة (New Issue)، اضغط هنا](git clone https://github.com/atysar/ComfyUI-Arabic-Prompt.git)**  *(ملاحظة: استبدل `git clone https://github.com/atysar/ComfyUI-Arabic-Prompt.git` باسم المستخدم والمستودع الخاصين بك).*
 
 ### ❤️ دعم المشروع ماديًا (اختياري)
 
