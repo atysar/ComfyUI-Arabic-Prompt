@@ -47,7 +47,7 @@
 ### الطريقة 2: عبر Git Clone
 
 1.  افتح نافذة الأوامر (CMD) في مجلد `custom_nodes`.
-2.  قم بنسخ المستودع باستخدام الأمر التالي (استبدل `your-username/repo-name` باسم المستخدم والمستودع الخاصين بك):
+2.  قم بنسخ المستودع باستخدام الأمر التالي (استبدل `git clone https://github.com/atysar/ComfyUI-Arabic-Prompt.git` باسم المستخدم والمستودع الخاصين بك):
     ```bash
    git clone https://github.com/atysar/ComfyUI-Arabic-Prompt.git
     ```
