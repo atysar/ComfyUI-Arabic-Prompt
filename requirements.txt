@@ -1,0 +1,11 @@
+requests
+
+
+# -----------------------------------------------------------------
+#  متطلبات تشغيل حزمة العقد العربية لـ ComfyUI
+#  Requirements for the Arabic Prompt Node Package for ComfyUI
+# -----------------------------------------------------------------
+
+# مكتبة لإرسال طلبات الـ HTTP إلى الخادم المحلي (مثل GPT4All).
+# A library for sending HTTP requests to the local server (like GPT4All).
+requests
